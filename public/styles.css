@@ -1,0 +1,15 @@
+:root {
+    --background: #202124;
+    --text: #f8f8f8;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+#table {
+    height: 50vh;
+}
